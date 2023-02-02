@@ -5,4 +5,5 @@ i build this using ReactJs and unsplash API
 * javaScript
 * HTML & CSS
 ### packages:
-* react-router
+* react-router    `npm i react-router-dom`
+* react-spinners   `npm i react-spinners`
